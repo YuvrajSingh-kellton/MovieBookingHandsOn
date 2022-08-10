@@ -1,0 +1,15 @@
+D:\C# Programs\MovieBooking\bin\Debug\net6.0\MovieBooking.exe
+D:\C# Programs\MovieBooking\bin\Debug\net6.0\MovieBooking.deps.json
+D:\C# Programs\MovieBooking\bin\Debug\net6.0\MovieBooking.runtimeconfig.json
+D:\C# Programs\MovieBooking\bin\Debug\net6.0\MovieBooking.dll
+D:\C# Programs\MovieBooking\bin\Debug\net6.0\MovieBooking.pdb
+D:\C# Programs\MovieBooking\obj\Debug\net6.0\MovieBooking.csproj.AssemblyReference.cache
+D:\C# Programs\MovieBooking\obj\Debug\net6.0\MovieBooking.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programs\MovieBooking\obj\Debug\net6.0\MovieBooking.AssemblyInfoInputs.cache
+D:\C# Programs\MovieBooking\obj\Debug\net6.0\MovieBooking.AssemblyInfo.cs
+D:\C# Programs\MovieBooking\obj\Debug\net6.0\MovieBooking.csproj.CoreCompileInputs.cache
+D:\C# Programs\MovieBooking\obj\Debug\net6.0\MovieBooking.dll
+D:\C# Programs\MovieBooking\obj\Debug\net6.0\refint\MovieBooking.dll
+D:\C# Programs\MovieBooking\obj\Debug\net6.0\MovieBooking.pdb
+D:\C# Programs\MovieBooking\obj\Debug\net6.0\MovieBooking.genruntimeconfig.cache
+D:\C# Programs\MovieBooking\obj\Debug\net6.0\ref\MovieBooking.dll
